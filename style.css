@@ -1,3 +1,6 @@
+html {
+  overflow-x: hidden;
+}
 * {
   margin: 0px;
   padding: 0px;
@@ -10,7 +13,7 @@ body {
 }
 nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   min-height: 8vh;
   background-color: #80305c;
@@ -84,11 +87,11 @@ nav {
     font-size: 16px;
   }
   .burger {
-    display: none;
+    display: block;
   }
-  nav {
+  /* nav {
     display: none;
-  }
+  } */
 }
 .nav-active {
   transform: translateX(0%);
@@ -144,6 +147,7 @@ nav {
 }
 .Projects {
   min-height: 92vh;
+  width: 100%;
   text-align: center;
   padding: 3em;
   font-family: "Poppins", sans-serif;
@@ -253,9 +257,9 @@ nav {
   background-color: rgb(56, 54, 54);
   color: white;
   min-height: 92vh;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-around; */
 }
 .team-title {
   font-size: 3rem;
