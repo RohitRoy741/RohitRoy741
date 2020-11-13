@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,500;0,600;1,300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,500;0,600;1,300&display=swap" rel="stylesheet">
+    <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
     <title>Portfolio</title>
 </head>
 <body>
@@ -14,10 +16,10 @@
             <h4>Fairy Tail</h4>
         </div>
         <ul class="nav-links">
-            <li><a href="#">Home</a></li>
+            <li><a href="#HOME">Home</a></li>
             <li><a href="#">About</a></li>
-            <li><a href="#">Teams</a></li>
-            <li><a href="#">Projects</a></li>
+            <li><a href="#TEAMS">Teams</a></li>
+            <li><a href="#PROJECTS">Projects</a></li>
         </ul>
         <div class="burger">
             <div class="line1"></div>
@@ -25,49 +27,54 @@
             <div class="line1"></div>
         </div>
     </nav>
-    <div class="intro">
+    <div class="intro" id="HOME">
         <div class="title">
             <img src="images/RohitRoy.jpg" height=300vh class="my-image">
             <h1 class="hero">Hey, I am Rohit</h1>
             <p class="tag">A programmer. A Software Engineer. A student.</p>
         </div>
     </div>
-    <div class="Projects">
-        <h2 class="Projects-title">My Projects</h2>
+    <div class="Projects" id="PROJECTS">
+        <h2 class="Projects-title" data-aos="flip-down" data-aos-duration="1000">My Projects</h2>
         <div class="Projects-list">
-            <div class="project">
-                
-                <img src="images/Mark3.jpg" height=200vh>
-                <h3 class="project-title">Mark 3</h3>
-                <p class="project-dis">A CLI shopping app in Java</p>
-            </div>
-            <div class="project">
-                <img src="images/library.jpg" height=200vh>
-                <h3 class="project-title">Library Application</h3>
-                <p class="project-dis">A command line library app in C</p>
-            </div>
-            <div class="project">
+            <a href="https://github.com/Salamander19-tech/Mark-3-ShoppingApp">
+                <div class="project" data-aos="fade-right" data-aos-duration="1000">
+                    <img src="images/Mark3.jpg" height=200vh>
+                    <h3 class="project-title">Mark 3</h3>
+                    <p class="project-dis">A CLI shopping app in Java</p>
+                </div>
+            </a>
+            <a href="https://github.com/Salamander19-tech/Library-Management">
+                <div class="project" data-aos="fade-up" data-aos-duration="1000">
+                    <img src="images/library.jpg" height=200vh>
+                    <h3 class="project-title">Library Application</h3>
+                    <p class="project-dis">A command line library app in C</p>
+                </div>
+            </a>
+           <a href="https://salamander19-tech.github.io/FairyTail.github.io/">
+            <div class="project" data-aos="fade-left" data-aos-duration="1000">
                 <img src="images/fairy.png" height=200vh>
                 <h3 class="project-title">Fairy Tail</h3>
                 <p class="project-dis">A website for community</p>
             </div>
+           </a>
         </div>
     </div>
-    <div class="TeamBack">
-        <h2 class="team-title">My Team</h2>
+    <div class="TeamBack" id="TEAMS">
+        <h2 class="team-title"  data-aos="flip-down" data-aos-duration="1000">My Team</h2>
         <div class="Team">
             
-            <div class="Member">
+            <div class="Member" data-aos="fade-right" data-aos-duration="1000">
                 <img src="images/Saitama.jpg" height=250vh>
                 <h3 class="Member-Name">Saitama</h3>
                 <p>A Software Engineer just for fun.</p>
             </div>
-            <div class="Member">
+            <div class="Member" data-aos="fade-up" data-aos-duration="1000">
                 <img src="images/Asta.jpeg" height=250vh>
                 <h3 class="Member-Name">Asta</h3>
                 <p>He writes all the code without any shortcuts.</p>
             </div>
-            <div class="Member">
+            <div class="Member" data-aos="fade-left" data-aos-duration="1000">
                 <img src="images/Natsu.jpg" height=250vh>
                 <h3 class="Member-Name">Natsu</h3>
                 <p>Always fired up!</p>
@@ -80,12 +87,11 @@
             <p class="end-tag">How do you take your coffee?</p>
         </div>
         <div class="connect">
-            <a class='github btn'>Github</a>
-            <a class='facebook btn'>Facebook</a>
+            <a href="https://github.com/Salamander19-tech" class='github btn'>Github</a>
+            <a href="https://www.facebook.com/profile.php?id=100025803642570" class='facebook btn'>Facebook</a>
          
         </div>
     </div>
-
     <script src="script.js"></script>
 </body>
 </html>
