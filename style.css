@@ -10,7 +10,7 @@ body {
 }
 nav {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   min-height: 8vh;
   background-color: #80305c;
@@ -25,6 +25,7 @@ nav {
   text-transform: uppercase;
   letter-spacing: 5px;
   font-size: 20px;
+  margin-left: 1rem;
 }
 .nav-links {
   display: flex;
@@ -48,6 +49,7 @@ nav {
 }
 .burger {
   display: none;
+  margin-right: 1rem;
 }
 .burger div {
   width: 25px;
@@ -278,8 +280,4 @@ nav {
 }
 .connect a {
   color: white;
-}
-hr {
-  width: 10px;
-  padding: 2px;
 }
