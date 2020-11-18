@@ -3,7 +3,7 @@
 <p>I am an aspiring software developer currently pursuing my bachelors in CSE at Manipal University Jaipur.
   I like to learn new things and use them to solve daily life problems. Programming to me is an art which gives me power to create
   new things. Apart from coding I am a huge anime fan and nerdy book reader. When I am not coding, or watching anime, or reading something then either I am
-  doing my laundry or sleeping. Or probably both :P.</p>
+  doing my laundry or sleeping. Or probably both :P. Here is my <a href="https://rohitroy741.github.io/RohitRoy741/">portfolio.</a></p>
 <h2>My Skills</h2>
 <ul>
   <li>
