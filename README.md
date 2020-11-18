@@ -9,8 +9,12 @@
   <li>
     <h3>C programming</h3>
     <p>I learned C programming during my first year at college. I like C for the flexibilty it provides in spite of its hard syntax. I hav a nice grip on topics like pointers,             array and structures, and up for a discussion about them any time.</p>
+  </li>
+  <li>
     <h3>Java</h3>
     <p>I love Java for being a purely Object Oriented language. I have developed a command line shopping application in java and doing that made me realise hoe necessary OOP is for making complex and large projects.
+  </li>
+  <li>
     <h3>Data Structures And Algorithms</h3>
     <p> That's like bread and butter of programming and honestly I love to learn and apply their concepts to real world problems.
   </li>
