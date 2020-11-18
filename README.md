@@ -18,6 +18,7 @@
     <h3>Data Structures And Algorithms</h3>
     <p> That's like bread and butter of programming and honestly I love to learn and apply their concepts to real world problems.</p>
   </li>
+  </ul>
   <h2>My Projects</h2>
 <ul>
   <li>
