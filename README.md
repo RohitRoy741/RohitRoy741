@@ -12,7 +12,7 @@
   </li>
   <li>
     <h3>Java</h3>
-    <p>I love Java for being a purely Object Oriented language. I have developed a command line shopping application in java and doing that made me realise hoe necessary OOP is for making complex and large projects.</p>
+    <p>I love Java for being a purely Object Oriented language. I have developed a command line shopping application in java and doing that made me realise how necessary OOP is for making complex and large projects.</p>
   </li>
   <li>
     <h3>Data Structures And Algorithms</h3>
