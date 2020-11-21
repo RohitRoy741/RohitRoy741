@@ -1,6 +1,6 @@
 <h1>Rohit Roy</h1>
 <h2>About Me</h2>
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitroy741)](https://github.com/rohitroy741/github-readme-stats)
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitroy741)](https://github.com/anuraghazra/github-readme-stats)
 <p>I am an aspiring software developer currently pursuing my bachelors in CSE at Manipal University Jaipur.
   I like to learn new things and use them to solve daily life problems. Programming to me is an art which gives me power to create
   new things. Apart from coding I am a huge anime fan and nerdy book reader. When I am not coding, or watching anime, or reading something then either I am
