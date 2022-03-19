@@ -1,10 +1,12 @@
 <h1>Rohit Roy</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=rohitroy741&theme=merko&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=rohitroy741&theme=chartreuse-dark&show_icons=true">
 <h2>About Me</h2>
 <p>Hello 👋,  I am Rohit. I am a fullstack developer (or trying to be 😅) and I create web applications using MERN stack. Unlike most people seeing "Hello World!" for first time on my screen wasn't a huge deal, however building social netwroking web application meant a lot to me. I am intersted in building applications that let users interact with one another or maybe get real time updates about something. I know it sounds cheesy but I love developing applications. I hate to test them though.</p>
 <p>So anyways, if you want to know more about me, ping me on: <a href="mailto:rohitroy741760@gmail.com">rohitroy741760@gmail.com</a>.</p>
 <h2>My Skills</h2>
 <p> If you were not able to guess my skills from the intro, here they are🙌</p>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>  <img src="https://img.shields.io/badge/Mongo%20DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 <ul>
   <li>
     <h3>JavaScript</h3>
