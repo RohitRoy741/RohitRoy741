@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rohitroy741&theme=merko&show_icons=true">
 <h2>About Me</h2>
 <p>Hello 👋,  I am Rohit. I am a fullstack developer (or trying to be 😅) and I create web applications using MERN stack. Unlike most people seeing "Hello World!" for first time on my screen wasn't a huge deal, however building social netwroking web application meant a lot to me. I am intersted in building applications that let users interact with one another or maybe get real time updates about something. I know it sounds cheesy but I love developing applications. I hate to test them though.</p>
-<p>So anyways, if you want to know more about me, ping me on: <a href:"mailto:rohitroy741760@gmail.com">rohitroy741760@gmail.com</a>.</p>
+<p>So anyways, if you want to know more about me, ping me on: <a href="mailto:rohitroy741760@gmail.com">rohitroy741760@gmail.com</a>.</p>
 <h2>My Skills</h2>
 <p> If you were not able to guess my skills from the intro, here they are🙌</p>
 <ul>
