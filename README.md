@@ -1,36 +1,30 @@
 <h1>Rohit Roy</h1>
-<h2>About Me</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=rohitroy741&theme=merko&show_icons=true">
-<p>I am an aspiring software developer currently pursuing my bachelors in CSE at Manipal University Jaipur.
-  I like to learn new things and use them to solve daily life problems. Programming to me is an art which gives me power to create
-  new things. Apart from coding I am a huge anime fan and nerdy book reader. When I am not coding, or watching anime, or reading something then either I am
-  doing my laundry or sleeping. Or probably both :P. Here is my <a href="https://rohitroy741.github.io/RohitRoy741/">portfolio.</a></p>
+<h2>About Me</h2>
+<p>Hello 👋,  I am Rohit. I am a fullstack developer (or trying to be 😅) and I create web applications using MERN stack. Unlike most people seeing "Hello World!" for first time on my screen wasn't a huge deal, however building social netwroking web application meant a lot to me. I am intersted in building applications that let users interact with one another or maybe get real time updates about something. I know it sounds cheesy but I love developing applications. I hate to test them though.</p>
+<p>So anyways, if you want to know more about me, ping me on: <a href:"mailto:rohitroy741760@gmail.com">rohitroy741760@gmail.com</a>.</p>
 <h2>My Skills</h2>
+<p> If you were not able to guess my skills from the intro, here they are🙌</p>
 <ul>
   <li>
-    <h3>C programming</h3>
-    <p>I learned C programming during my first year at college. I like C for the flexibilty it provides in spite of its hard syntax. I hav a nice grip on topics like pointers,             array and structures, and up for a discussion about them any time.</p>
+    <h3>JavaScript</h3>
+    <p>I have learned JavaScript from many resources. You hame it, I have tried it: Udemy, Freecodecamp, JavaScript.info. I like to use JavaScript for everything, even competitive programming (It didn't work out well😂). So anyways talk to me about JavaScript, the good parts, the bad parts, the weird parts, pretty much anything. </p>
   </li>
   <li>
-    <h3>Java</h3>
-    <p>I love Java for being a purely Object Oriented language. I have developed a command line shopping application in java and doing that made me realise how necessary OOP is for making complex and large projects.</p>
+    <h3>ReactJS</h3>
+    <p>Ok honestly, I never really learned JavaScript Browser APIs and used them in large application. I started with React. Don't Judge me, I did study JS first okay. I like React, its separation of concerns instead of technologies and its component architecture. I am constantly trying to improve my React knowledge.</p>
   </li>
   <li>
-    <h3>Data Structures And Algorithms</h3>
-    <p> That's like bread and butter of programming and honestly I love to learn and apply their concepts to real world problems.</p>
+    <h3>NodeJs</h3>
+    <p>I know how to create a http server in Node JS and do routing using conditionals. I also know file handling in JS using Node APIs. Apart from that I know how EventEmitters and Streams work on a higher level. And yes, did I mention that I know how NodeJS runs a single thread of JavaScript and yet is non-blocking😁.</p>
+  </li>
+    <li>
+      <h3>Express</h3>
+      <p>I know I said how to do routing in NodeJS but I never said that I like it. For building any kind of backend service in Node, express is my goto framework. Its minimalistic, unopinonated and beautifule. <p>
+  </li>
+  <li>
+    <h3>MongoDB</h3>
+    <p>I prefer MongoDB over SQL databases, because of its flexibilty in the type of data that can be stored in a document's field and the nearly native type of storage format that can be easily converted to a native type in most languages.<p>
   </li>
   </ul>
-  <h2>My Projects</h2>
-<ul>
-  <li>
-    <h3>Library Management Application</h3>
-    <p>This is a Command Line Library Application that I developed in C programming language. I tried to take a minimalistic approach and used as few resources as possible. This application uses file handling to store data, however it provides all the basic CRUD functions. It provides separate interfaces for Admin and members.</p>
-  </li>
-  <li>
-    <h3>Shooping App (MARK 3)</h3>
-    <p>This is another CLI app I developed. This application uses various OOP's features of Java to provide various features of a shooping app. I am still developing it further and trying to add a RDBMS to store its data.</p>
-  </li>
-  <li>
-    <h3>Static Website (Fairy Tail)</h3>
-    <p> This is one of my first projects and I used just HTML and CSS in it. Its a website just for fun and aesthetic purposes.</p>
-  </li>
+ 
