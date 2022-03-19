@@ -24,7 +24,7 @@
   </li>
   <li>
     <h3>MongoDB</h3>
-    <p>I prefer MongoDB over SQL databases, because of its flexibilty in the type of data that can be stored in a document's field and the nearly native type of storage format that can be easily converted to a native type in most languages.<p>
+    <p>I prefer MongoDB over SQL databases, because of its flexibilty in the type of data that can be stored in a document's field and theeasy to read storage format that can be easily converted to a native type in most languages.<p>
   </li>
   </ul>
  
